@@ -91,7 +91,7 @@ ext {
 
     junitVersion = '4.11'
     mockitoVersion = '3.4.4'
-    logbackVersion = '1.2.3'
+    logbackVersion = '1.2.8'
     jacksonVersion = '2.4.2'
     assertJVersion = '3.22.0'
     assertJForJava7Version = '2.9.1'
