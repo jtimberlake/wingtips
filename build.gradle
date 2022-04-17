@@ -82,7 +82,7 @@ ext {
 
     lightstepTracerVersion = '0.15.4'
     lightstepHttpVersion = '0.16.2'
-    grpcNettyVersion = '1.14.0'
+    grpcNettyVersion = '1.43.1'
     nettyTcnativeBoringVersion = '2.0.12.Final'
 
     nikeInternalUtilVersion = '0.9.0.1'
