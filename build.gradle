@@ -101,7 +101,7 @@ ext {
     apacheCommonsLangVersion = '2.6'
     jaxbApiVersion = '2.4.0-b180830.0359'
 
-    jettyVersion = '9.3.21.v20170918'
+    jettyVersion = '9.4.41.v20210516'
 
     // JACOCO PROPERTIES
     jacocoToolVersion = '0.8.4'
