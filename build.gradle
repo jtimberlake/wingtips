@@ -81,7 +81,7 @@ ext {
     jersey2Version = '2.23.2'
 
     lightstepTracerVersion = '0.15.4'
-    lightstepHttpVersion = '0.16.2'
+    lightstepHttpVersion = '0.19.0'
     grpcNettyVersion = '1.14.0'
     nettyTcnativeBoringVersion = '2.0.12.Final'
 
