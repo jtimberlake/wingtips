@@ -70,7 +70,7 @@ ext {
     slf4jVersion = '1.7.25'
     servletApiVersion = '3.0.1'
     zipkinVersion = '1.16.2'
-    zipkin2Version = '2.10.1'
+    zipkin2Version = '2.11.3'
     zipkin2ReporterVersion = '2.7.6'
     spring4Version = '4.3.7.RELEASE'
     spring5Version = '5.1.9.RELEASE'
